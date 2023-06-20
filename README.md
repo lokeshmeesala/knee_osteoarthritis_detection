@@ -1,2 +1,5 @@
-# knee_osteoarthritis_detection
-Multiclass Classification on Severity of Knee Osteoarthritis using Transfer Learning.
+# Detecting Early Stage Knee Osteoarthritis Using Deep Transfer Learning
+
+<b>Abstract</b> — Knee osteoarthritis is one of the most prevalent forms of the disease, and its diagnosis can be challenging, especially in its early stages. Imaging techniques such as X-Ray are commonly used to diagnose osteoarthritis, but the interpretation of these images can be subjective and prone to error, especially when detecting  subtle changes. In this research, I aim to develop a deep learning network that can classify Knee X-ray images into 5 categories, i.e. 0 - Normal/Healthy, 1 - Doubtful, 2 - Minimal, 3 - Moderate, and 4 - Severe. I propose to use Convolutional Neural Networks (CNN) for multi-class image classification. The baseline model will be a CNN-based deep learning network, which will be trained on a dataset of knee X-ray images. The effectiveness of transfer learning is investigated by applying state-of-the-art CNN architectures such as ResNet, and VGG Nets. To handle the class imbalance, a selective augmentation technique is used. An iterative model training process is used for fine-tuning. 
+
+<b><i>Keywords</i></b> — Osteoarthritis, CNN, VggNet, ResNets, Multi-class Image Classification, Transfer Learning, Selective Augmentation.
