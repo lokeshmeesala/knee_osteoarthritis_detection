@@ -10,5 +10,9 @@
   - To improve the fine tuning results, iterative model training is implemented.
   - Achieved an F1 score of 62.3%.
 
+<b>Research Paper</b><br>
+Results and conclusions of this project are mentioned in this research paper.
+[https://github.com/lokeshmeesala/knee_osteoarthritis_detection/blob/main/docs/Final%20Project%20Report.pdf]
+
 <b>Dataset</b><br>
 Dataset of knee X-ray images from the Osteoarthritis Initiative (OAI) database is used. Labelling is done by Chen, Pingjun (2018) [https://data.mendeley.com/datasets/56rmx5bjcr].
